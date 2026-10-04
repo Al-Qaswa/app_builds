@@ -1,4 +1,4 @@
-# Adhkar — Sunday 4 October 2026
+# Adhkar — 04/10/26-Sun
 
 **Version 1.3.0 (build 14)** · Android release build, debug-signed · 88 MB
 
