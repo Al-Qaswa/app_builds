@@ -1,6 +1,12 @@
 # Adhkar — 04/10/26-Sun
 
-## Build 15 — 1.3.0 (15) · Android release build, debug-signed · 93 MB
+## Build 16 — 1.3.0 (16) · Android release build, debug-signed · 93 MB
+
+**[⬇ Download adhkar-1.3.0-build16-debugsigned.apk](../../../../releases/download/adhkar-2026-10-04-b16/adhkar-1.3.0-build16-debugsigned.apk)** · [Release page](../../../../releases/tag/adhkar-2026-10-04-b16)
+
+Fixes the next page's audio sometimes not starting (or the old clip carrying on) after tapping through a count.
+
+## Build 15 — 1.3.0 (15) · 93 MB
 
 **[⬇ Download adhkar-1.3.0-build15-debugsigned.apk](../../../../releases/download/adhkar-2026-10-04-b15/adhkar-1.3.0-build15-debugsigned.apk)** · [Release page](../../../../releases/tag/adhkar-2026-10-04-b15)
 

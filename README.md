@@ -7,7 +7,7 @@ Android test builds of the four Al-Qaswa apps, for testers. Each build is a date
 | <img src="salah/screenshots/screenshot-1.jpg" width="110" /> | **[Salah](salah/)** | Keep your salah: the five prayers marked honestly, and the qada you still owe. | _none yet_ |
 | <img src="qaswa/screenshots/screenshot-1.jpg" width="110" /> | **[Qaswa](qaswa/)** | Illustrated prophet stories for children, in English, Urdu, Arabic and French. | _none yet_ |
 | <img src="tibyan/screenshots/screenshot-1.jpg" width="110" /> | **[Tibyan](tibyan/)** | Qur'an memorisation tracked the way it is taught: sabaq, sabqi and manzil. | _none yet_ |
-| <img src="adhkar/screenshots/screenshot-1.jpg" width="110" /> | **[Adhkar](adhkar/)** | A pocket book of the Muslim: morning and evening adhkar and 327 supplications, each with its citation. | [04/10/26-Sun · 1.3.0 (15)](adhkar/04-10-26-Sun/) |
+| <img src="adhkar/screenshots/screenshot-1.jpg" width="110" /> | **[Adhkar](adhkar/)** | A pocket book of the Muslim: morning and evening adhkar and 327 supplications, each with its citation. | [04/10/26-Sun · 1.3.0 (16)](adhkar/04-10-26-Sun/) |
 
 ## Screenshots
 
