@@ -20,9 +20,7 @@ YOUR RECORD
 Look back over your days on a calendar. No streaks to break, no red for a missed prayer, nothing that shouts.
 
 PRIVATE
-No account needed, no ads, no tracking. Your record is saved on your phone.
-
-The name comes from the hadith: "the coolness of my eyes has been placed in prayer."
+No ads, no tracking.
 
 **Category:** Lifestyle · **Tags:** Religion & spirituality
 **Contact email:** taknikiyaat.official@gmail.com
